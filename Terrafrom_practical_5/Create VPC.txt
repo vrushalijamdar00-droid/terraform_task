@@ -1,0 +1,3 @@
+now I want to create VPC using terraform.
+I want all file on local machine and then use it on ec2.
+create vpc.tf file, main.tf, variable.tf and all required tf files and give me all steps with code
